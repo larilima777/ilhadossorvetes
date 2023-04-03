@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <link rel="stylesheet" href="produtos.css">
+     <link rel="stylesheet" href="sabores.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,7 +43,5 @@
     Torta Alemã	Sorvete de choc.branco com biscoite e chocolate mesclado
     Uva	Sorvete de Uva com passas</p>
 
-
-
-
+   <p></p>
 </body>
